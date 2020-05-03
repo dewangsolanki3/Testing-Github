@@ -4,3 +4,6 @@ violet
 indigo 
 blue 
 green
+yellow 
+orane
+red
