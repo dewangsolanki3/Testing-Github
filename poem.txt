@@ -5,5 +5,7 @@ indigo
 blue 
 green
 yellow 
-orane
+orange
 red
+
+The end
